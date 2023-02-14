@@ -3,6 +3,7 @@ Hola 👋, soy Ignacio Coria de Bernardi
 
 Soy técnico en desarrollo de aplicaciones web y programador full stack, me apasiona el mundo de la tecnología.
 Comencé en el 2018 con un curso en Java, lenguaje que llevo a interesarme en la programación y comenzar mi carrera como desarrollador Web.
+
 Mi objetivo es poder aplicar mis conocimientos en el mundo real y aprender nuevos lenguajes y tecnologías 
 
 tecnologías que uso:
