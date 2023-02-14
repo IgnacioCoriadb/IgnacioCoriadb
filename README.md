@@ -15,9 +15,9 @@ El bootcampde henry me permitió aprender y utilizar las tecnologías
   ,Express.js
   ,PostgreSQL
   ,Sequalize
-   y Git
+   y Git.
   
-también en la tecnicatura en desarrollo de aplicaciones web usé las tecnologías
+También en la tecnicatura en desarrollo de aplicaciones web usé las tecnologías
   Php y
  Laravel
 
