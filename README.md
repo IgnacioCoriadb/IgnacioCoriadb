@@ -7,18 +7,18 @@ Mi objetivo es poder aplicar mis conocimientos en el mundo real y aprender nuevo
 
 tecnologías que uso:
 El bootcampde henry me permitió aprender y utilizar las tecnologías
-  .Javascript
-  .React.js
-  .Redux.js
-  .Node.js
-  .Express.js
-  .PostgreSQL
-  .Sequalize
-  .Git
+  Javascript
+  ,React.js
+  ,Redux.js
+  ,Node.js
+  ,Express.js
+  ,PostgreSQL
+  ,Sequalize
+  ,Git
   
 también en la tecnicatura en desarrollo de aplicaciones web usé las tecnologías
-  .Php
-  .Laravel
+  ,Php
+  ,Laravel
 
 Entre otras herramientas, también tengo conocimientos en Adobe XD, Draw.io, Trello, etc.
 
