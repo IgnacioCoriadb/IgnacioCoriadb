@@ -19,10 +19,10 @@ El bootcampde henry me permitió aprender y utilizar las tecnologías
   
 También en la tecnicatura en desarrollo de aplicaciones web usé las tecnologías
   Php y
- Laravel
+ Laravel.
 
 Entre otras herramientas, también tengo conocimientos en Adobe XD, Draw.io, Trello, etc.
 
 No dudes en contactarme! 
 
-Email ignaciocoriadb@gmail.com  LinkedIn https://www.linkedin.com/in/ignacio-coria-de-bernardi
+Email ignaciocoriadb@gmail.com   LinkedIn https://www.linkedin.com/in/ignacio-coria-de-bernardi
