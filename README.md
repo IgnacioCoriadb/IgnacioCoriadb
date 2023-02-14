@@ -14,11 +14,11 @@ El bootcampde henry me permitió aprender y utilizar las tecnologías
   ,Express.js
   ,PostgreSQL
   ,Sequalize
-  ,Git
+   y Git
   
 también en la tecnicatura en desarrollo de aplicaciones web usé las tecnologías
-  ,Php
-  ,Laravel
+  Php y
+ Laravel
 
 Entre otras herramientas, también tengo conocimientos en Adobe XD, Draw.io, Trello, etc.
 
